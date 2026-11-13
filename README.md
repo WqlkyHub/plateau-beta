@@ -8,7 +8,7 @@ choisis de partager un projet avec un autre appareil.
 
 ## Télécharger
 
-Va dans **[Releases](../../releases/latest)** et télécharge `Plateau_0.3.0_x64-setup.exe` (environ 6 Mo).
+Va dans **[Releases](../../releases/latest)** et télécharge `Plateau_0.4.0_x64-setup.exe` (environ 6 Mo).
 
 ## Installer
 
@@ -19,8 +19,8 @@ Va dans **[Releases](../../releases/latest)** et télécharge `Plateau_0.3.0_x64
 
 Configuration : Windows 10 ou 11, 64 bits. Si Microsoft Edge WebView2 manque (rare), l'installateur le télécharge.
 
-**Vérifier le fichier (facultatif)** : dans PowerShell, `Get-FileHash .\Plateau_0.3.0_x64-setup.exe` doit afficher
-`F2E58C0A468A92E8160EEB7BA23916BA6A536351535BD40DBA78182A68DC8B5F`.
+**Vérifier le fichier (facultatif)** : dans PowerShell, `Get-FileHash .\Plateau_0.4.0_x64-setup.exe` doit afficher
+`F18F1C4B5097D9C29A1C8683E46D1F8513015666B8B4B5074DB7D43069C6A633`.
 
 ## Pour commencer
 

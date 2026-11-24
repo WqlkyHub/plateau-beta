@@ -8,7 +8,7 @@ choisis de partager un projet avec un autre appareil.
 
 ## Télécharger
 
-Va dans **[Releases](../../releases/latest)** et télécharge `Plateau_0.4.10_x64-setup.exe` (environ 6 Mo).
+Va dans **[Releases](../../releases/latest)** et télécharge `Plateau_0.5.0_x64-setup.exe` (environ 6 Mo).
 
 ## Installer
 
@@ -19,8 +19,8 @@ Va dans **[Releases](../../releases/latest)** et télécharge `Plateau_0.4.10_x6
 
 Configuration : Windows 10 ou 11, 64 bits. Si Microsoft Edge WebView2 manque (rare), l'installateur le télécharge.
 
-**Vérifier le fichier (facultatif)** : dans PowerShell, `Get-FileHash .\Plateau_0.4.10_x64-setup.exe` doit afficher
-`68A20A487E023B9B4E6E3C10527ADD7A061980EB43D8745636E06DA136030168`.
+**Vérifier le fichier (facultatif)** : dans PowerShell, `Get-FileHash .\Plateau_0.5.0_x64-setup.exe` doit afficher
+`2300B14F2F5870CC2B82C6E24AB5C32B9C8103D325FA7A37BDB912E0EF7F7A2C`.
 
 ## Pour commencer
 
@@ -32,6 +32,13 @@ Au premier lancement, ouvre le **projet d'exemple** (« Les Heures Bleues ») : 
 - Tes retours sont précieux : ce qui est pratique, ce qui ne l'est pas, ce qui manque, ce qui plante (avec une
   capture si possible). Envoie-les à la personne qui t'a donné ce lien, ou ouvre une **Issue** sur cette page (compte
   GitHub nécessaire).
+
+## Licence
+
+Plateau est en version de test. Tu peux l'utiliser gratuitement pour l'essayer, sur tes propres appareils et avec tes
+propres projets, et nous dire ce qui marche ou non : les retours sont les bienvenus. Il est interdit de le revendre ou
+de le redistribuer. Le logiciel est fourni tel quel, sans garantie ; tes projets restent à toi, tu peux les exporter à
+tout moment. Conditions complètes : [LICENSE-TEST.md](LICENSE-TEST.md).
 
 ## Désinstaller
 
